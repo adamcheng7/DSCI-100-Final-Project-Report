@@ -1,3 +1,7 @@
+# Jupyter specific files
+.ipynb_checkpoints
+.history
+
 # History files
 .Rhistory
 .Rapp.history
